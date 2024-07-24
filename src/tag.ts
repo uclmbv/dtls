@@ -1,4 +1,4 @@
-import _ from "@uclmbv/utls";
+import * as _ from "@uclmbv/utls";
 import { blockTags, singleTags, lineBreakTags, nativeInputs } from "./base";
 import { make } from "./create";
 

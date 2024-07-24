@@ -1,4 +1,5 @@
-import _ from "@uclmbv/utls";
+import * as _ from "@uclmbv/utls";
+
 import { allInputs } from "./base";
 import { isAllInlineTag, isNativeInput } from "./tag";
 import { getDeepestBlockElements } from "./get";
