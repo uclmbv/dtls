@@ -26,11 +26,7 @@ export default defineConfig({
       fileName: "dtls",
     },
     rollupOptions: {
-      external: ["@uclmbv/utls"],
       output: {
-        globals: {
-          "@uclmbv/utls": "_",
-        },
         dir: "./dist",
       },
       input: "src/index.ts",
