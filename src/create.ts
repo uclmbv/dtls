@@ -1,4 +1,4 @@
-import _ from "@uclmbv/utls";
+import * as _ from "@uclmbv/utls";
 
 function make(
   tagName: string,
