@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.2](https://github.com/uclmbv/dtls/compare/v1.0.1...v1.0.2) (2024-07-25)
+
+### Performance
+
+* update tsconfig ([8743da3](https://github.com/uclmbv/dtls/commit/8743da32a9102c241f1a0b149fe7a4ae76b09983))
+
 ## [1.0.1](https://github.com/uclmbv/dtls/compare/v1.0.0...v1.0.1) (2024-07-24)
 
 ### Bug Fixes
