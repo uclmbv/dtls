@@ -38,7 +38,6 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@types/node": "^20.14.9",
-    "@uclmbv/utls": "^1.0.1",
     "commitizen": "^4.3.0",
     "commitlint": "^19.3.0",
     "conventional-changelog-conventionalcommits": "^8.0.0",
@@ -55,5 +54,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@uclmbv/utls": "^1.0.2"
   }
 }
