@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.3](https://github.com/uclmbv/dtls/compare/v1.0.2...v1.0.3) (2024-07-25)
+
+### Refactor
+
+* update utls ([9855e2b](https://github.com/uclmbv/dtls/commit/9855e2b6b5941097aa77f0c4767c84ca3dad4643))
+
 ## [1.0.2](https://github.com/uclmbv/dtls/compare/v1.0.1...v1.0.2) (2024-07-25)
 
 ### Performance
